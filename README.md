@@ -1,4 +1,5 @@
 <img align="right" alt="Pedro-C" height="300" width="300" src="https://www.svgrepo.com/show/421342/analysis-data-fabrication.svg">
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
