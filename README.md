@@ -1,9 +1,9 @@
 <img align="right" alt="Pedro-C" height="230" width="230" src="https://www.svgrepo.com/show/421342/analysis-data-fabrication.svg">
 <br>
-<div style=display: "flex" align-itens="center" ><br>
+<div style=display: "flex" align="center" ><br>
   <div><img align="center" alt="Pedro-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></div>
   <div align="center"><img align="center" alt="Pedro-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></div>
-  <div><img align="center" alt="Pedro-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/></div>
+  <div align="center"><img align="center" alt="Pedro-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/></div>
   <div><img align="center" alt="Pedro-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></div>
   <div><img align="center" alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></div>
   <div><img align="center" alt="Pedro-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></div>
