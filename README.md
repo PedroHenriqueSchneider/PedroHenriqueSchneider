@@ -1,3 +1,4 @@
+<img style="display: flex; justify-content: right;" alt="Pedro-C" height="230" width="230" src="https://www.svgrepo.com/show/476467/science.svg">
 
 <br>
 <div style="display: flex; align-items: center;">
