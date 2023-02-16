@@ -4,8 +4,8 @@
     <img alt="Pedro-C" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img alt="Pedro-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
     <img alt="Pedro-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img alt="Pedro-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img alt="Pedro-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Pedro-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  </div>
   
 <br>
