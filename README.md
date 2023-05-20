@@ -1,5 +1,5 @@
 <h1><strong> Pedro Schneider </strong></h1>
-<div><strong> I am a bachelor's student of Computer Science at Universidade Federal de São Carlos, and currently working with Laravel and PHP, more specifically. In addition to that, I am studying Node.js for backend development and I participate in the group of marathon programming at the University. In my free time, I enjoy working on personal projects, reading books, articles, and studying hacking.</strong></div>
+<div><strong>   I am a bachelor's student of Computer Science at Universidade Federal de São Carlos, and currently working with Laravel and PHP, more specifically. In addition to that, I am studying Node.js for backend development and I participate in the group of marathon programming at the University. In my free time, I enjoy working on personal projects, reading books, articles, and studying hacking.</strong></div>
 <br>
 
 <div style="display: flex; align-items: center;">
