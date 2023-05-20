@@ -1,4 +1,6 @@
-<div> I am a bachelor's student of Computer Science at @UFScar, and I am currently working with Laravel and PHP, more specifically. In addition to that, I study Node.js for backend development and participate in the group of marathon programming at the University. In my free time, I enjoy working on personal projects, reading books, articles, and studying hacking. </div>
+<br>
+<div> I am a bachelor's student of Computer Science at @UFScar, and I am currently working with Laravel and PHP, more specifically. In addition to that, I am study Node.js for backend development and participate in the group of marathon programming at the University. In my free time, I enjoy working on personal projects, reading books, articles, and studying hacking. </div>
+<br>
 
 <div style="display: flex; align-items: center;">
     <img alt="Pedro-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
