@@ -3,7 +3,9 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img alt="Pedro-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+    <a href="https://laravel.com/">
+  <img src="caminho_da_imagem_do_laravel" alt="Laravel">
+</a>
     <img alt="Pedro-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img alt="Pedro-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Pedro-C" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
