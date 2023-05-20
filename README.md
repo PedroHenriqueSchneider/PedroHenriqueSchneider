@@ -1,5 +1,5 @@
 <br>
-<div> I am a bachelor's student of Computer Science at @UFScar, and I am currently working with Laravel and PHP, more specifically. In addition to that, I am study Node.js for backend development and participate in the group of marathon programming at the University. In my free time, I enjoy working on personal projects, reading books, articles, and studying hacking. </div>
+<div><strong> I am a bachelor's student of Computer Science at @UFScar, and currently working with Laravel and PHP, more specifically. In addition to that, I am studying Node.js for backend development and I participate in the group of marathon programming at the University. In my free time, I enjoy working on personal projects, reading books, articles, and studying hacking.</strong></div>
 <br>
 
 <div style="display: flex; align-items: center;">
