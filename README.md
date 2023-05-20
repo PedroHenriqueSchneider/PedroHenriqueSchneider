@@ -2,7 +2,7 @@
 <div><strong>   I am a bachelor's student of Computer Science at Universidade Federal de São Carlos, and currently working with Laravel and PHP, more specifically. In addition to that, I am studying Node.js for backend development and I participate in the group of marathon programming at the University. In my free time, I enjoy working on personal projects, reading books, articles, and studying hacking.</strong></div>
 <br>
 
-<div><p>👨‍💻 <strong> Most used Languages! </strong></p>/<div>
+<div><p>👨‍💻 <strong> Most used Languages! </strong></p><div>
 <div>
     <a href="https://laravel.com/">
      <img alt="Laravel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
