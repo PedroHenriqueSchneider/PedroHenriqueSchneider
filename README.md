@@ -2,10 +2,7 @@
 <div><strong>   I am a bachelor's student of Computer Science at Universidade Federal de São Carlos, and currently working with Laravel and PHP, more specifically. In addition to that, I am studying Node.js for backend development and I participate in the group of marathon programming at the University. In my free time, I enjoy working on personal projects, reading books, articles, and studying hacking.</strong></div>
 <br>
 
-<div style="display: flex; align-items: center;">
-    <a href="https://laravel.com/">
-  <img src="caminho_da_imagem_do_laravel" alt="Laravel">
-</a>
+    <img alt="Pedro-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
     <img alt="Pedro-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img alt="Pedro-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Pedro-C" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
