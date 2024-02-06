@@ -5,7 +5,7 @@
 <div><p>👨‍💻 <strong>Most used Languages!</strong></p></div>
 <div>
     <a href="https://laravel.com/" style="margin-right: 15px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+            <img alt="Pedro-Laravel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     </a>
     <img alt="Pedro-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="margin-right: 10px;" />
     <img alt="Pedro-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 10px;">
